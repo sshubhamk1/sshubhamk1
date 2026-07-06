@@ -1,40 +1,56 @@
 # Shubham Kumar
 **Senior Backend Engineer | Distributed Systems | AI Infrastructure**
 
-*Specializing in building high-concurrency, fault-tolerant systems with a foundation in cybersecurity and formal research.*
+*Building high-concurrency, fault-tolerant platforms with a foundation in cybersecurity and formal research.*
 
 ---
 
 ### 🚀 Professional Impact
 
-**Collective Artists Network**
-*   **Scale:** Architected backend services for **2M+ users** and **50K+ DAU**.
-*   **Reliability:** Reduced production incidents by 25% through the implementation of [specific observability/testing pattern].
-*   **AI Integration:** Designed and deployed LLM-powered onboarding workflows, reducing user friction during registration.
+**Collective Artists Network** | *Senior Backend Engineer*
+* **Scalability:** Architected a personalized recommendation engine for **2M+ users** using semantic search and community detection.
+* **Throughput:** Designed a high-concurrency leaderboard system supporting **50K+ DAU**.
+* **AI Integration:** Deployed LLM-powered conversational onboarding, significantly reducing user drop-off rates.
+* **Reliability:** Established observability standards, reducing production incidents by **25%**.
 
-**Radisys**
-*   **Performance:** Optimized system boot sequences, achieving a **60% reduction in startup latency**.
-*   **Stability:** Resolved critical production crashes by performing deep-dive Linux memory debugging and heap analysis.
-*   **Leadership:** Led the backend engineering team in implementing automated monitoring and 90%+ test coverage.
+**Radisys** | *Senior Software Engineer*
+* **Performance:** Reduced system boot time by **60%** by designing a fault-tolerant supervision framework.
+* **Stability:** Resolved critical production crashes via Linux memory debugging and deep core-dump analysis.
+* **Leadership:** Led a team of 5 engineers, driving architectural decisions and enforcing rigorous code quality standards.
 
----
-
-### 🧠 Deep Expertise & Research
-
-*   **Security Research:** Reverse engineered the **Mirai Botnet**; Published 3 papers in **IEEE & Springer** regarding [Topic].
-*   **Distributed Systems:** High-concurrency APIs, Event-driven architectures, and Consensus algorithms.
-*   **AI/LLM Infra:** RAG pipelines, Vector Databases (pgvector), and AI Agent orchestration.
-*   **Systems Programming:** Deep understanding of Python/Django internals and Linux kernel primitives.
+**Radisys** | *Software Engineer*
+* **Reliability:** Built automated health monitoring with remote log offloading to prevent storage-induced failures.
+* **Quality:** Increased backend test coverage to **90%+**, significantly improving platform stability.
 
 ---
 
-### 🛠 Tech Stack
+### 🧪 Featured Engineering Research
+**Mirai Botnet Reverse Engineering**
+* Conducted deep-dive analysis into propagation, attack coordination, and C2 communication protocols.
+* Simulated distributed botnet behavior across **100+ nodes** to analyze network saturation and DDoS traffic patterns.
+* Extracted threat-detection insights by studying adversarial concurrency and distributed communication.
 
-**Core:** Python (Expert), SQL, Go, Linux Internals.
-**Distributed:** Kafka, Redis, Celery, Kubernetes, Terraform.
+---
+
+### 🛠 Technical Expertise
+
+**Languages & Core:** Python (Expert), SQL, Go, Linux Internals (Memory/Concurrency).
+**Distributed Systems:** Kafka, Redis, Celery, Kubernetes, Terraform, Nginx.
+**AI & GenAI:** OpenAI, LangChain, LangGraph, RAG, pgvector.
 **Observability:** Prometheus, Grafana, OpenTelemetry.
-**AI/Vector:** OpenAI, LangChain, pgvector.
+
+**Disciplines:** Distributed Architecture, Event-Driven Systems, Microservices, Reliability Engineering, System Design.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/sshubhamk1) | [Email](sshubhamk1@hotmail.com) | [Portfolio](https://sshubhamk1.github.io) | [Blog](https://sshubhamk1.github.io/blogs)
+### 🏆 Achievements & Education
+
+* **Research:** Published 3 peer-reviewed papers in **IEEE & Springer** on IoT malware and distributed security.
+* **Security:** Participated in **100+ CTF competitions** (Reverse Engineering, Web Security, Linux Internals).
+* **Education:** 
+    * **M.Tech (Research), Computer Science & Engineering** | NITK Surathkal
+    * **B.Tech, Computer Science & Engineering** | Lovely Professional University
+
+---
+
+[LinkedIn](https://linkedin.com/in/sshubhamk1) | [Email](mailto:sshubhamk1@hotmail.com) | [Portfolio](https://sshubhamk1.github.io) | [Blog](https://sshubhamk1.github.io/blogs)
